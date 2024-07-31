@@ -1,3 +1,4 @@
+package Searching;
 public class FindInMountainArray {
     public static int findInMountainArray(int[] arr, int target) {
 
