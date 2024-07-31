@@ -1,3 +1,4 @@
+package Searching;
 public class FindMin {
 
     // public static int max(int[] arr) {

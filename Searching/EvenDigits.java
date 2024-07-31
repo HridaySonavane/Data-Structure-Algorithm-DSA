@@ -1,3 +1,4 @@
+package Searching;
 public class EvenDigits {
 
     public static int findNumbers(int[] nums) {

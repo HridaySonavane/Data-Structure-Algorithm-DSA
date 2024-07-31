@@ -1,3 +1,4 @@
+package Searching;
 public class SmallestLetter {
     public static char smallestLetter(char[] letters, char target) {
         // simple binary search algo

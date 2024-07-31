@@ -1,3 +1,4 @@
+package Searching;
 public class searchInSting {
 
     public static boolean search(String str, char target) {

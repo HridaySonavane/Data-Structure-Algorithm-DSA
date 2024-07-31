@@ -1,3 +1,4 @@
+package Searching;
 public class BSInInfiniteArray {
 
     public static int ans(int[] arr, int target) {

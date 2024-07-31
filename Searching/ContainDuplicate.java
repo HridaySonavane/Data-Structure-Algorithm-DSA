@@ -1,3 +1,4 @@
+package Searching;
 //https://leetcode.com/problems/contains-duplicate/
 
 public class ContainDuplicate {

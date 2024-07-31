@@ -1,3 +1,4 @@
+package Searching;
 public class DuplicateElementRotatedArray {
     public static int findPivot(int[] arr) {
         

@@ -1,3 +1,4 @@
+package Searching;
 public class OrderAgnosticBS {
 
     public static int orderAgnosticBS(int[] arr, int target) {

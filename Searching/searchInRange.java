@@ -1,3 +1,4 @@
+package Searching;
 public class searchInRange {
 
     public static int range(int[] arr, int target) {

@@ -1,3 +1,4 @@
+package Searching;
 public class RotatedCount {
 
     public static int rotatedCount(int[] arr) {

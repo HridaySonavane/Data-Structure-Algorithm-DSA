@@ -1,3 +1,4 @@
+package Searching;
 public class SplitArray {
     public static int splitArray(int[] nums, int m) {
         int start = 0;

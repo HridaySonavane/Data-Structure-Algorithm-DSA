@@ -1,3 +1,4 @@
+package Searching;
 public class maxWealth {
 
     public static int maximumWealth(int[][] arr) {

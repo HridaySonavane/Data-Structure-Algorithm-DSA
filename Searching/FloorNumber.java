@@ -1,3 +1,4 @@
+package Searching;
 public class FloorNumber {
     //ceiling number means the number greater than or equal to the target
     public static int floor(int[] arr, int target) {

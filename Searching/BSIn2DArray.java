@@ -1,3 +1,4 @@
+package Searching;
 public class BSIn2DArray {
 
     public static boolean search(int[][] arr, int target) {
