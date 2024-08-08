@@ -3,11 +3,11 @@ public class RotatedCount {
 
     public static int rotatedCount(int[] arr) {
         int pivot = findPivot(arr);
-        /* if (pivot == -1) {
+        if (pivot == -1) {
             //Array is not rotated
             return 0;
-        } */
-        return pivot + 1;
+        };
+        return pivot;
     }
     
     //use this for non-duplicates
